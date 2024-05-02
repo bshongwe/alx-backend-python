@@ -87,6 +87,7 @@ This project consists of a series of Python scripts focusing on variable annotat
 - **Description**: Use mypy to validate the function `zoom_array` and make necessary changes for type checking.
 - **File**: `102-type_checking.py`
 <br></br>
+<br></br>
 
 # 🛠️ Edge Tests 🛠️
 ## Test 0 🧮
