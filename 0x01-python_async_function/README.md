@@ -1,4 +1,7 @@
 # 0x01. Python - Async 🐍📚
+`Python` `Back-end`
+<br></br>
+
 ## Resources
 Read or watch:
 - 📘 [Async IO in Python: A Complete Walkthrough](https://realpython.com/async-io-python/)
@@ -35,6 +38,7 @@ without the help of Google:
 - A documentation is not a simple word, it’s a real sentence explaining
 what’s the purpose of the module, class or method (the length of it will be
 verified)
+<br></br>
 
 # Tasks
 ## 🕰️  Task 0: The basics of async
