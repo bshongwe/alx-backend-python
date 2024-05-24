@@ -944,7 +944,8 @@ TEST_PAYLOAD = [
         }
       }
     ],
-    ['episodes.dart', 'cpp-netlib', 'dagger', 'ios-webkit-debug-proxy', 'google.github.io', 'kratu', 'build-debian-cloud', 'traceur-compiler', 'firmata.py'],
+    ['episodes.dart', 'cpp-netlib', 'dagger', 'ios-webkit-debug-proxy',
+         'google.github.io', 'kratu', 'build-debian-cloud', 'traceur-compiler', 'firmata.py'],
     ['dagger', 'kratu', 'traceur-compiler', 'firmata.py'],
   )
 ]
